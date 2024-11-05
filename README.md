@@ -1,4 +1,4 @@
-# MSCM-Net
+# MsCM-Net
 # Multiscale Convolutional Mask Network for Hyperspectral Unmixing
 The code in this toolbox implements the "Multiscale Convolutional Mask Network for Hyperspectral Unmixing".
 # System-specific notes
