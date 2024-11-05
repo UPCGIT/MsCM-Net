@@ -13,3 +13,5 @@ The DC dataset and its similarity matrix, which cannot be uploaded directly beca
 The closer the cosine distance is to 1, the greater the similarity value. However, in this version of the code, the cosine distance is subtracted by 1 and multiplied by 1000, initially to better observe the difference between similarities. At this point in the code, the smaller the value in the similarity matrix, the more similar it is. You can operate the similarity matrix as follows: similarity_matrix=1-similarity_matrix/1000. This corresponds to the explanation in the paper. It's the same in theory. The two are only different in operation, and there is no essential difference.
 # Contact
 s23160009@s.upc.edu.cn
+# Related work
+https://github.com/UPCGIT/TSUCAE
