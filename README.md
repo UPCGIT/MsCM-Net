@@ -4,6 +4,7 @@ The code in this toolbox implements the "Multiscale Convolutional Mask Network f
 # System-specific notes
 The code was tested in the environment of `Python 3.9.16`, `torch 1.13.1` and `CUDA 11.6`.
 # Citation
+If you use the code, please cite the paper:
 ```
 M. Xu, J. Xu, S. Liu, H. Sheng, and Z. Yang, “Multiscale Convolutional Mask Network for Hyperspectral Unmixing,” IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens., vol. 17, pp. 3687–3700, 2024.
 ```
